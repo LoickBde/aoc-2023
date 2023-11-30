@@ -1,0 +1,20 @@
+{
+  "name": "aoc-2023",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx"
+  },
+  "keywords": [
+    "aoc2023",
+    "Advent of Code 2023"
+  ],
+  "author": "LoickBde",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "tsx": "^4.6.1",
+    "typescript": "^5.3.2"
+  }
+}
