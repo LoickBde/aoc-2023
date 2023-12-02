@@ -4,7 +4,8 @@
   "description": "https://adventofcode.com/",
   "main": "index.js",
   "scripts": {
-    "start": "tsx"
+    "start": "tsx",
+    "watch": "tsx watch"
   },
   "keywords": [
     "aoc2023",
