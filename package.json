@@ -1,0 +1,11 @@
+{
+  "name": "aoc-2023",
+  "scripts": {
+    "start": "tsx",
+    "dev": "tsx watch"
+  },
+  "devDependencies": {
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+}
