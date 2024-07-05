@@ -2,12 +2,7 @@
   "name": "aoc-2023",
   "type": "module",
   "scripts": {
-    "start": "tsx",
-    "dev": "tsx watch"
-  },
-  "devDependencies": {
-    "@types/node": "^20.14.9",
-    "tsx": "^4.16.2",
-    "typescript": "^5.5.3"
+    "start": "node",
+    "dev": "node --watch"
   }
 }

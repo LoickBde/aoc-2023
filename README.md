@@ -1,3 +1,4 @@
 # AOC 2023
-Language : Typescript  
+
+Language : Javascript  
 Node version : 20.11
